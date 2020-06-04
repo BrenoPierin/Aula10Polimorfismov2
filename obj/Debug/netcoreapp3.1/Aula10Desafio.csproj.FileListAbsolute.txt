@@ -1,0 +1,13 @@
+C:\Breno USA\Senai\Aula10Desafio\obj\Debug\netcoreapp3.1\Aula10Desafio.csprojAssemblyReference.cache
+C:\Breno USA\Senai\Aula10Desafio\obj\Debug\netcoreapp3.1\Aula10Desafio.csproj.CoreCompileInputs.cache
+C:\Breno USA\Senai\Aula10Desafio\obj\Debug\netcoreapp3.1\Aula10Desafio.AssemblyInfoInputs.cache
+C:\Breno USA\Senai\Aula10Desafio\obj\Debug\netcoreapp3.1\Aula10Desafio.AssemblyInfo.cs
+C:\Breno USA\Senai\Aula10Desafio\bin\Debug\netcoreapp3.1\Aula10Desafio.exe
+C:\Breno USA\Senai\Aula10Desafio\bin\Debug\netcoreapp3.1\Aula10Desafio.deps.json
+C:\Breno USA\Senai\Aula10Desafio\bin\Debug\netcoreapp3.1\Aula10Desafio.runtimeconfig.json
+C:\Breno USA\Senai\Aula10Desafio\bin\Debug\netcoreapp3.1\Aula10Desafio.runtimeconfig.dev.json
+C:\Breno USA\Senai\Aula10Desafio\bin\Debug\netcoreapp3.1\Aula10Desafio.dll
+C:\Breno USA\Senai\Aula10Desafio\bin\Debug\netcoreapp3.1\Aula10Desafio.pdb
+C:\Breno USA\Senai\Aula10Desafio\obj\Debug\netcoreapp3.1\Aula10Desafio.dll
+C:\Breno USA\Senai\Aula10Desafio\obj\Debug\netcoreapp3.1\Aula10Desafio.pdb
+C:\Breno USA\Senai\Aula10Desafio\obj\Debug\netcoreapp3.1\Aula10Desafio.genruntimeconfig.cache
